@@ -1,0 +1,1 @@
+from bgu_physics_lab import Chi2RegDxDy
